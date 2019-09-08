@@ -8,7 +8,7 @@
 
 -----------------------------------------------------------------------------------------
 
-### cite: 
+### Cite: 
  ##### Shi, C.; Wang, X.; Zhang, M.; Liang, X.; Niu, L.; Han, H.; Zhu, X. A Comprehensive and Automated Fusion Method: The Enhanced Flexible Spatiotemporal DAta Fusion Model for Monitoring Dynamic Changes of Land Surface. Appl. Sci. 2019, 9, 3693.
 
 
