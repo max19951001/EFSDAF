@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------------------
 
-​																				EFSDAF PROGRAM
+​																				EFSDAF Pogram
 
 ​										Developed by Chenlie Shi, email:max1995@stumail.nwu.edu.cn
 
@@ -38,7 +38,7 @@
 
 
 
-### note
+### Note
 
 1. input images must be reflectance image. the range of dn values is 0<dn<1. data type is float
 
