@@ -13,11 +13,11 @@
 
 ## 2021.7.28  Update 
 
-### Conetent
+### Content
    #### 
-   (1) modify the exist bug for EFSDAF
+   (1) repair the exist bugs for EFSDAF
    
-   (2) add the instrution for EFSDAF Called instrution.txt
+   (2) add the instrution of EFSDAF Called instrution.txt
    
    (3) add a demo video for EFSDAF
    
