@@ -9,10 +9,22 @@
 -----------------------------------------------------------------------------------------
 
 ## 2021.7.28  Update 
-
+-----------------------------------------------------------------------------------------
 ### Conetent
+   #### 
+   (1) modify the exist bug for EFSDAF
+   
+   (2) add the instrution for EFSDAF Called instrution.txt
+   
+   (3) add a demo video for EFSDAF
+   
+   (4) provide the test data
    
 
+
+
+
+-----------------------------------------------------------------------------------------
 ### Cite: 
  ##### Shi, C.; Wang, X.; Zhang, M.; Liang, X.; Niu, L.; Han, H.; Zhu, X. A Comprehensive and Automated Fusion Method: The Enhanced Flexible Spatiotemporal DAta Fusion Model for Monitoring Dynamic Changes of Land Surface. Appl. Sci. 2019, 9, 3693.
 
