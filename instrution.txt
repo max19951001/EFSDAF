@@ -1,0 +1,22 @@
+there have many details before running the EFSDAF that can make EFSDAF run successfully.
+
+(1) The content of the provided csv file is the pop of endmembers that have three endmembers based on the landsat images. 
+therefore, the bands of the input landsat images are four bands at least. i recommand using six bands for landsat images to execute EFSDAF.
+
+(2) The valuse of the all bands should be corrected to 0-1, and the resolution of modis images should be resampled to 30m as same as landsat images.
+
+the provided images are corrected to execute EFSDAF directly.
+
+
+(3) The program is written in IDL; IDL and ENVI are required
+
+(4) Before running the program, build a new IDL project , copy all the files to the project folder
+
+(5) before Compiling and executing the EFSDAF program, you should create a cache file on your  disk. like, "d:/temp". 
+then, set the parameters of efsdaf according to your research areas and content.
+
+Attention: （1） the EFSDAF don't support the single band input, such as NDVI.
+
+(2) the efficiency of the EFSDAF is relatively low, it is not recommended for a wide range of  applications now.
+                 
+

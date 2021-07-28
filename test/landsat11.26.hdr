@@ -1,0 +1,20 @@
+ENVI
+samples = 800
+lines   = 800
+bands   = 6
+data type = 4
+interleave = bsq
+file type = ENVI Standard
+header offset = 0
+byte order = 0
+map info = {Geographic Lat/Lon, 1.0000, 1.0000, 148.95987500, -29.00537500, 2.500000e-004, 2.500000e-004, Geocentric Datum of Australia 1994, units=Degrees}
+coordinate system string = {GEOGCS["GCS_GDA_1994",DATUM["D_GDA_1994",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]}
+x start = 314
+y start = 1040
+band names = {
+ Meta 0 (Band 1:envitempfileMonOct152008022018734_1.bandmathdu.dat), 
+ Meta 1 (Band 1:envitempfileMonOct152008052018621_1.bandmathdu.dat), 
+ Meta 2 (Band 1:envitempfileMonOct152008092018661_1.bandmathdu.dat), 
+ Meta 3 (Band 1:envitempfileMonOct152008122018930_1.bandmathdu.dat), 
+ Meta 4 (Band 1:envitempfileMonOct15200815201890_1.bandmathdu.dat), 
+ Meta 5 (Band 1:envitempfileMonOct152008182018812_1.bandmathdu.dat)}

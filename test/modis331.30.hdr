@@ -1,0 +1,24 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 20.000000, y resize factor: 20.000000.
+  Method: 1st degree RST w/ nearest neighbor [Mon Jun 10 16:37:09 2019]}
+samples = 800
+lines   = 800
+bands   = 6
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+map info = {Geographic Lat/Lon, 1.0000, 1.0000, 148.95987500, -29.00537500, 2.5000000000e-004, 2.5000000000e-004, Geocentric Datum of Australia 1994, units=Degrees}
+coordinate system string = {GEOGCS["GCS_GDA_1994",DATUM["D_GDA_1994",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]}
+wavelength units = Unknown
+pixel size = {2.50000000e-004, 2.50000000e-004, units=Meters}
+band names = {
+ Resize (Resize (Meta 0 (Band 1:envitempfileMonOct152009162018205_1.bandmathdu.dat):modis331.dat):modis331.500.dat), 
+ Resize (Resize (Meta 1 (Band 1:envitempfileMonOct152009212018271_1.bandmathdu.dat):modis331.dat):modis331.500.dat), 
+ Resize (Resize (Meta 2 (Band 1:envitempfileMonOct152009242018250_1.bandmathdu.dat):modis331.dat):modis331.500.dat), 
+ Resize (Resize (Meta 3 (Band 1:envitempfileMonOct152009272018504_1.bandmathdu.dat):modis331.dat):modis331.500.dat), 
+ Resize (Resize (Meta 4 (Band 1:envitempfileMonOct152009302018790_1.bandmathdu.dat):modis331.dat):modis331.500.dat), 
+ Resize (Resize (Meta 5 (Band 1:envitempfileMonOct152009332018704_1.bandmathdu.dat):modis331.dat):modis331.500.dat)}

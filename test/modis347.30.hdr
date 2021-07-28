@@ -1,0 +1,15 @@
+ENVI
+description = {
+  Mosaic Result [Wed Jul 28 09:03:28 2021]}
+samples = 800
+lines   = 800
+bands   = 6
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+map info = {Geographic Lat/Lon, 1.0000, 1.0000, 148.95987500, -29.00537500, 2.5000000000e-004, 2.5000000000e-004, Geocentric Datum of Australia 1994, units=Degrees}
+coordinate system string = {GEOGCS["GCS_GDA_1994",DATUM["D_GDA_1994",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]}
+wavelength units = Unknown
